@@ -10,7 +10,7 @@ In the project directory, you can run:
 
  - buku
  - penulis
- - pkategori
+ - kategori
  
 ## library / dependecy
 - axios untuk data fetching
@@ -21,7 +21,7 @@ In the project directory, you can run:
 # download / clone
 
 ```bash
-  git clone https://github.com/Agels/vhiweb
+  [git clone https://github.com/Agels/vhiweb](https://github.com/Agels/kiostix-client.git)
 ```
 # masuk ke project
 
